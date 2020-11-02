@@ -1,0 +1,52 @@
+bidy{
+
+margin: 0px;
+}
+
+
+
+#wrapper{
+
+width: 100%;
+margin-left:  auto;
+margin-right: auto;
+}
+header{
+  Height:150px;
+  width:100%;
+  background-color: pink;
+}
+
+nav{
+  Height:50px;
+  width:100%;
+Background-color: orange;
+}
+
+main{
+  Height:450px;
+  width:75%;
+  Background-color:blue;
+}
+
+aside{
+  Height:450px;
+  width:25%;
+  Background-color:Purple;
+}
+Footer{
+  Height:100px;
+  width: 100%;
+  background-color: Green;
+}
+
+#container{
+  display: flex;
+}
+
+
+a{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
